@@ -1,5 +1,5 @@
 Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
 Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Controller|SchDesignator=U_Controller|FileName=Controller.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Controller.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Ethernet|SchDesignator=U_Ethernet|FileName=Ethernet.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Ethernet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Periph|SchDesignator=U_Periph|FileName=Periph.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Periph.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=Power.SchDoc|SheetNumber=5
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Periph|SchDesignator=U_Periph|FileName=Periph.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Periph.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
