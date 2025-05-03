@@ -253,6 +253,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IQRNKSBB
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for STM32407VG_DevBoard\Design Rule Check - PCB_STM32F407VG.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
